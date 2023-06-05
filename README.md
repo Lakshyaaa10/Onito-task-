@@ -34,4 +34,9 @@ http://localhost:8080/api/v1/top-rated-movies
 - Postgres
 - SQL
 
+## Deployment
+
+To deploy this project on localhost paste this below code in VS code or similar.properties file in the 
+resources and update according to your database name, username and password of your Postgres database.
+
 
