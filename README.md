@@ -29,9 +29,9 @@ http://localhost:8080/api/v1/top-rated-movies
 ```
 
 ## Tech Stack
-Nodejs
-Postman
-Postgres
-SQL
+- Nodejs
+- Postman
+- Postgres
+- SQL
 
 
